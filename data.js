@@ -106,18 +106,25 @@ var DATA = {
             `코냥님`, `0『냐 `, `김정훈`, `깨꼬닥`, `Recia`, `たこすけ`, `ロゼリア`, `ebago`
         ],
         [
-            `Delta`, 
-            `iieoskdx`, 
-            `いみるほしい`, `UltimateBreak`, 
+            `Delta`,
+            `iieoskdx`,
+            `いみるほしい`, `UltimateBreak`,
             `たこすけ`, `カイワレへチマ`, `inaban15`, `Libre`,
             `코냥님`, `노노단무지`, `たかまSSS`, `ソレムバン`, `DOMINUS虚拟`, `一暗殺術一`, `Jping`, `Invalid10`
         ],
         [
-            `UScorpioU`, 
-            `Kanasa`, 
-            `COLLOSALYIDHRA`,  `ロゼリア`, 
-            `루미엘`,  `Changhun`,  `小浩`,  `BRD101753019`,  
-            `조약돌하나`,  `타윈`,  `アニス伯`,  `ゴクリン`,  `inaban15`,  `taka0309`,  `ryoM_JP`,  `舞心情`,  
+            `UScorpioU`,
+            `Kanasa`,
+            `COLLOSALYIDHRA`, `ロゼリア`,
+            `루미엘`, `Changhun`, `小浩`, `BRD101753019`,
+            `조약돌하나`, `타윈`, `アニス伯`, `ゴクリン`, `inaban15`, `taka0309`, `ryoM_JP`, `舞心情`,
+        ],
+        [
+            `불꽃`,
+            `타라`,
+            `あさいちゃん`, `UScorpioU`,
+            `솔라리스`, `신은서`, `Jping`, `주머니`,
+            `인연`, `신츠이`, `悲しい深海魚`, `AshDeValis`, `UltimateBreak`, `月影亞克`, `ロゼリア`, `VerTrauen`,
         ],
     ],
     server_terra: [
@@ -129,9 +136,9 @@ var DATA = {
         //     ``, ``, ``, ``, ``, ``, ``, ``
         // ],
         [
-            `等等要吃飯`, 
-            `PandaBread`, 
-            `Lenus`, `TheEmperor`, 
+            `等等要吃飯`,
+            `PandaBread`,
+            `Lenus`, `TheEmperor`,
             `WhiteHorizon`, `xLyra`, `adamfang`, `Yukari`,
             `CookieDu`, `BRD1340`, `せりん`, `ùWú`, `QuickSilveR`, `Ragna`, `leaderBB`, `zakseun`
         ],
