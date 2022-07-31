@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<header>
+    <title>計算工具</title>
+    <link rel="stylesheet" type="text/css" href="index.css">
+    <style>
+        .block {
+            background-color : #ffc77d;
+            padding: 4px;
+            width: fit-content;
+        }
+    </style>
+    
+</header>
+
+<body>
+      <div class="block">
+        <button onclick="refreshNewUser()">刷新看有沒有新參賽者</button>
+        <br/>
+        <label id="displayLabel"></label>
+      </div>
+      <br/>
+      <label>篩選參賽者名稱語言</label>
+      <br/>
+      <button onclick="inintTable(`en`)">英文</button>
+      <button onclick="inintTable(`ch`)">中文</button>
+      <button onclick="inintTable(`jp`)">日文</button>
+      <button onclick="inintTable(`kr`)">韓文</button>
+      <div id ="filterTable">
+
+      </div>
+</body>
+
+<!--資源載入-->
+<script language="javascript" src="data.js"></script>
+<script language="javascript" src="calculatorFunc.js"></script>
