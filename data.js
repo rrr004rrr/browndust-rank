@@ -127,6 +127,497 @@ var DATA = {
             `인연`, `신츠이`, `悲しい深海魚`, `AshDeValis`, `UltimateBreak`, `月影亞克`, `ロゼリア`, `VerTrauen`,
         ],
     ],
+
+    contrary: [
+        {
+          "name": "Makos",
+          "country": "en"
+        },
+        {
+          "name": "たかまSSS",
+          "country": "jp"
+        },
+        {
+          "name": "GGuanTinG",
+          "country": "en"
+        },
+        {
+          "name": "たこすけ",
+          "country": "jp"
+        },
+        {
+          "name": "Kniru",
+          "country": "en"
+        },
+        {
+          "name": "Delta",
+          "country": "en"
+        },
+        {
+          "name": "Pristern",
+          "country": "en"
+        },
+        {
+          "name": "けろちや",
+          "country": "jp"
+        },
+        {
+          "name": "Latina",
+          "country": "en"
+        },
+        {
+          "name": "akhisa1",
+          "country": "en"
+        },
+        {
+          "name": "Omo",
+          "country": "en"
+        },
+        {
+          "name": "btc",
+          "country": "en"
+        },
+        {
+          "name": "NIRVANA",
+          "country": "en"
+        },
+        {
+          "name": "Invalid10",
+          "country": "en"
+        },
+        {
+          "name": "Hands",
+          "country": "en"
+        },
+        {
+          "name": "nama4",
+          "country": "en"
+        },
+        {
+          "name": "NUMB3RS",
+          "country": "en"
+        },
+        {
+          "name": "きむきむ",
+          "country": "jp"
+        },
+        {
+          "name": "徹子還曆",
+          "country": "ch"
+        },
+        {
+          "name": "KaibaFROST",
+          "country": "en"
+        },
+        {
+          "name": "Domcruesher",
+          "country": "en"
+        },
+        {
+          "name": "ゴクリン",
+          "country": "jp"
+        },
+        {
+          "name": "綠茶ex00",
+          "country": "ch"
+        },
+        {
+          "name": "김정훈",
+          "country": "kr"
+        },
+        {
+          "name": "MIRONA",
+          "country": "en"
+        },
+        {
+          "name": "SUBWAY",
+          "country": "en"
+        },
+        {
+          "name": "ふじ",
+          "country": "jp"
+        },
+        {
+          "name": "菊勺",
+          "country": "ch"
+        },
+        {
+          "name": "jerry2018",
+          "country": "en"
+        },
+        {
+          "name": "GcYoshi13",
+          "country": "en"
+        },
+        {
+          "name": "Cece",
+          "country": "en"
+        },
+        {
+          "name": "ウロ15",
+          "country": "jp"
+        },
+        {
+          "name": "みやまぎ",
+          "country": "jp"
+        },
+        {
+          "name": "코냥님",
+          "country": "kr"
+        },
+        {
+          "name": "六道輪迴之戰逆天",
+          "country": "ch"
+        },
+        {
+          "name": "불꽃",
+          "country": "kr"
+        },
+        {
+          "name": "엘류",
+          "country": "kr"
+        },
+        {
+          "name": "동히이이님",
+          "country": "kr"
+        },
+        {
+          "name": "なんゆ",
+          "country": "jp"
+        },
+        {
+          "name": "Jping",
+          "country": "en"
+        },
+        {
+          "name": "inaban15",
+          "country": "en"
+        },
+        {
+          "name": "NyxLaevateinn",
+          "country": "en"
+        },
+        {
+          "name": "ddani",
+          "country": "en"
+        },
+        {
+          "name": "툴툴이",
+          "country": "kr"
+        },
+        {
+          "name": "Arinesphilia",
+          "country": "en"
+        },
+        {
+          "name": "신은서",
+          "country": "kr"
+        },
+        {
+          "name": "개불R",
+          "country": "kr"
+        },
+        {
+          "name": "땡글이o",
+          "country": "kr"
+        },
+        {
+          "name": "Leoooooooo",
+          "country": "en"
+        },
+        {
+          "name": "天朗",
+          "country": "ch"
+        },
+        {
+          "name": "のたき",
+          "country": "jp"
+        },
+        {
+          "name": "單天保至尊",
+          "country": "ch"
+        },
+        {
+          "name": "leaderBB",
+          "country": "en"
+        },
+        {
+          "name": "adamfang2",
+          "country": "en"
+        },
+        {
+          "name": "Waynefrog",
+          "country": "en"
+        },
+        {
+          "name": "theolove03",
+          "country": "en"
+        },
+        {
+          "name": "Recia",
+          "country": "en"
+        },
+        {
+          "name": "Valerian",
+          "country": "en"
+        },
+        {
+          "name": "DNHG",
+          "country": "en"
+        },
+        {
+          "name": "Fapbian_EU",
+          "country": "en"
+        },
+        {
+          "name": "ASID",
+          "country": "en"
+        },
+        {
+          "name": "うめたて",
+          "country": "jp"
+        },
+        {
+          "name": "Saint",
+          "country": "en"
+        },
+        {
+          "name": "VerTrauen",
+          "country": "en"
+        },
+        {
+          "name": "i4",
+          "country": "en"
+        },
+        {
+          "name": "胡白",
+          "country": "ch"
+        },
+        {
+          "name": "悲しい深海魚",
+          "country": "jp"
+        },
+        {
+          "name": "ugug",
+          "country": "en"
+        },
+        {
+          "name": "정목",
+          "country": "kr"
+        },
+        {
+          "name": "놀부",
+          "country": "kr"
+        },
+        {
+          "name": "유진파",
+          "country": "kr"
+        },
+        {
+          "name": "지능떡락 ",
+          "country": "kr"
+        },
+        {
+          "name": "pantheratigris",
+          "country": "en"
+        },
+        {
+          "name": "EdvigeNithart",
+          "country": "en"
+        },
+        {
+          "name": "いみるほしい",
+          "country": "jp"
+        },
+        {
+          "name": "柳念",
+          "country": "ch"
+        },
+        {
+          "name": "No",
+          "country": "en"
+        },
+        {
+          "name": "Rtane",
+          "country": "en"
+        },
+        {
+          "name": "UScorpioU",
+          "country": "en"
+        },
+        {
+          "name": "zzz多拉貢",
+          "country": "ch"
+        },
+        {
+          "name": "西瓜冰沙ss",
+          "country": "ch"
+        },
+        {
+          "name": "Kanasa",
+          "country": "en"
+        },
+        {
+          "name": "쥬리",
+          "country": "kr"
+        },
+        {
+          "name": "수냥이",
+          "country": "kr"
+        },
+        {
+          "name": "타라 ",
+          "country": "kr"
+        },
+        {
+          "name": "Anahs",
+          "country": "en"
+        },
+        {
+          "name": "一暗殺術一",
+          "country": "ch"
+        },
+        {
+          "name": "실라페 ",
+          "country": "kr"
+        },
+        {
+          "name": "ZerebI",
+          "country": "en"
+        },
+        {
+          "name": "Seryn",
+          "country": "en"
+        },
+        {
+          "name": "千分の一夜物語",
+          "country": "jp"
+        },
+        {
+          "name": "Lengend7HeavenZ",
+          "country": "en"
+        },
+        {
+          "name": "Changhun",
+          "country": "en"
+        },
+        {
+          "name": "0『냐 ",
+          "country": "kr"
+        },
+        {
+          "name": "깨꼬닥",
+          "country": "kr"
+        },
+        {
+          "name": "ロゼリア",
+          "country": "jp"
+        },
+        {
+          "name": "ebago",
+          "country": "en"
+        },
+        {
+          "name": "iieoskdx",
+          "country": "en"
+        },
+        {
+          "name": "UltimateBreak",
+          "country": "en"
+        },
+        {
+          "name": "カイワレへチマ",
+          "country": "jp"
+        },
+        {
+          "name": "Libre",
+          "country": "en"
+        },
+        {
+          "name": "노노단무지",
+          "country": "kr"
+        },
+        {
+          "name": "ソレムバン",
+          "country": "jp"
+        },
+        {
+          "name": "DOMINUS虚拟",
+          "country": "ch"
+        },
+        {
+          "name": "COLLOSALYIDHRA",
+          "country": "en"
+        },
+        {
+          "name": "루미엘",
+          "country": "kr"
+        },
+        {
+          "name": "小浩",
+          "country": "ch"
+        },
+        {
+          "name": "BRD101753019",
+          "country": "en"
+        },
+        {
+          "name": "조약돌하나",
+          "country": "kr"
+        },
+        {
+          "name": "타윈",
+          "country": "kr"
+        },
+        {
+          "name": "アニス伯",
+          "country": "jp"
+        },
+        {
+          "name": "taka0309",
+          "country": "en"
+        },
+        {
+          "name": "ryoM_JP",
+          "country": "en"
+        },
+        {
+          "name": "舞心情",
+          "country": "ch"
+        },
+        {
+          "name": "타라",
+          "country": "kr"
+        },
+        {
+          "name": "あさいちゃん",
+          "country": "jp"
+        },
+        {
+          "name": "솔라리스",
+          "country": "kr"
+        },
+        {
+          "name": "주머니",
+          "country": "kr"
+        },
+        {
+          "name": "인연",
+          "country": "kr"
+        },
+        {
+          "name": "신츠이",
+          "country": "kr"
+        },
+        {
+          "name": "AshDeValis",
+          "country": "en"
+        },
+        {
+          "name": "月影亞克",
+          "country": "ch"
+        }
+      ],
     server_terra: [
         // [
         //     ``, 
