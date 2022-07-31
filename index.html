@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<link rel="stylesheet" type="text/css" href="index.css">
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>棕色塵埃排名</title>
+  <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+  <div style="height: 10px;"></div>
+
+  <div style="display: none;">
+    <a>伺服器:</a>
+    <button type="button" onclick="refresh(this, 'origin')">Origin</button>
+    <a> </a>
+    <button type="button" onclick="refresh(this, 'terra')">Terra</button>
+  </div>
+  <div style="height: 10px;"></div>
+  <div>
+    <a id="recentValue">近屆:</a>
+    <input class="recentSlider" type="range" min="1" max="14" value="14" step="1" class="slider" id="myRange"
+      onchange="refresh(this, '')">
+  </div>
+
+  <div style="height: 10px;"></div>
+
+  <table class="redTable">
+    <thead>
+      <tr>
+        <th>時間\排名</th>
+        <th>冠軍</th>
+        <th>亞軍</th>
+        <th>4強</th>
+        <th>4強</th>
+        <th>8強</th>
+        <th>8強</th>
+        <th>8強</th>
+        <th>8強</th>
+        <th>16強</th>
+        <th>16強</th>
+        <th>16強</th>
+        <th>16強</th>
+        <th>16強</th>
+        <th>16強</th>
+        <th>16強</th>
+        <th>16強</th>
+      </tr>
+    </thead>
+    <tbody id="rank">
+    </tbody>
+  </table>
+
+  <div style="height: 50px;"></div>
+
+  <h1>出現次數排名</h1>
+  <table class="redTable">
+    <thead>
+      <tr>
+        <th>No.1</th>
+        <th>No.2</th>
+        <th>No.3</th>
+        <th>No.4</th>
+        <th>No.5</th>
+        <th>No.6</th>
+        <th>No.7</th>
+        <th>No.8</th>
+        <th>No.9</th>
+        <th>No.10</th>
+        <th>No.11</th>
+        <th>No.12</th>
+        <th>No.13</th>
+        <th>No.14</th>
+        <th>No.15</th>
+        <th>No.16</th>
+      </tr>
+    </thead>
+    <tbody id="showRank">
+    </tbody>
+  </table>
+
+  <div style="height: 50px;"></div>
+
+  <h1>加權分數排名 (冠軍5分, 亞軍4分, 4強3分, 8強2分, 16強1分)</h1>
+  <table class="redTable">
+    <thead>
+      <tr>
+        <th>No.1</th>
+        <th>No.2</th>
+        <th>No.3</th>
+        <th>No.4</th>
+        <th>No.5</th>
+        <th>No.6</th>
+        <th>No.7</th>
+        <th>No.8</th>
+        <th>No.9</th>
+        <th>No.10</th>
+        <th>No.11</th>
+        <th>No.12</th>
+        <th>No.13</th>
+        <th>No.14</th>
+        <th>No.15</th>
+        <th>No.16</th>
+      </tr>
+    </thead>
+    <tbody id="pointRank">
+    </tbody>
+  </table>
+
+  <div style="height: 50px;"></div>
+</body>
+
+</html>
+
+<!--資源載入-->
+<script language="javascript" src="data.js"></script>
+<script language="javascript" src="main.js"></script>
